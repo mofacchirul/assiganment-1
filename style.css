@@ -127,3 +127,44 @@
     margin-top: 100px;
     padding:60px 80px ;
 }
+.inspiration{
+    margin-top: 100px;
+}
+.video{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 30px;
+  
+   
+}
+iframe{
+    border: 2px solid gainsboro;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.skills-titel{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.skills-discribtion{
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.html{
+    padding:20px ;
+    border-radius: 10px;
+   
+    background-color: pink;
+}
+.css{
+    padding:20px ;
+    border-radius: 10px;
+    background-color:lightskyblue;
+}
+.java{
+    padding:20px ;
+    border-radius: 10px;
+    background-color: lightyellow;
+}
+
