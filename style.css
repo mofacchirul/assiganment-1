@@ -9,9 +9,9 @@
     background-color: black;
     color:white;
     border: none;
-    padding: 15px 20px;
+    padding: 10px 15px;
     border-radius: 10px;
-    font-size: 20px;
+    font-size: 17px;
     margin-top: 20px;
 }
 
@@ -29,21 +29,38 @@
 
 .btn-sub{
     border: none;
-    padding: 10px 20px;
+    padding: 10px 15px;
     border: 2px solid black;
     border-radius: 10px;
     margin-top: 15px;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: lighter;
 }
 
 
 
+.ul{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+}
 
 
 
+.ul li{
+    list-style: none;
 
-
+}
+ul li button{
+    border: none;
+    padding: 10px 20px;
+    border: 2px solid gainsboro;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: 500;
+}
 
 
 
@@ -209,4 +226,20 @@ border-radius: 10px;
 background-color: white;
 
 
+}
+
+.commitment{
+    margin-top: 40px;
+    background-color: #E5E5E5;
+   
+}
+
+.open{
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
 }
